@@ -1,5 +1,5 @@
 # FemiBunnY <img src="https://komarev.com/ghpvc/?username=femibunny&style=flat-square&color=blue" alt=""/>
-I'm a begginer programmer.
+
 ### Social Media:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/femibunny_blog)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FemiBunnY)
